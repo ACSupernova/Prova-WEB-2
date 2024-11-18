@@ -13,5 +13,5 @@ Este é o repositório da minha prova de Desenvolvimento WEB. O projeto contém 
 - **Supabase**: Plataforma usada para autenticação de usuários.
 
 ## Informações
-- **Nome**: Antonio
+- **Nome**: Antonio Francisco Corrêa de Sousa Freitas
 - **Sala**: CC4M
